@@ -1,4 +1,4 @@
-# Voltage Drop
+# EDM Song
 
 An EDM track built entirely from code using [SuperCollider](https://supercollider.github.io/) — no samples, no DAW, no presets. Every sound is synthesized from scratch: kick drums, snares, hi-hats, bass, lead, and pads are all constructed from raw oscillators, noise generators, and envelopes.
 
